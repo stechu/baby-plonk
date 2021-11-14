@@ -1,2 +1,2 @@
-# baby-plonk
-baby plonk is a still plonk, but just a baby
+# pylonk
+pylonk is still a plonk, but with "simple" implementation in Python.
